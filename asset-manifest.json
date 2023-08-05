@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gumirus/youTube-TS/static/css/main.17fe2441.css",
-    "main.js": "/gumirus/youTube-TS/static/js/main.e66a472e.js",
-    "index.html": "/gumirus/youTube-TS/index.html",
-    "main.17fe2441.css.map": "/gumirus/youTube-TS/static/css/main.17fe2441.css.map",
-    "main.e66a472e.js.map": "/gumirus/youTube-TS/static/js/main.e66a472e.js.map"
+    "main.css": "/youTube-TS/static/css/main.17fe2441.css",
+    "main.js": "/youTube-TS/static/js/main.e66a472e.js",
+    "index.html": "/youTube-TS/index.html",
+    "main.17fe2441.css.map": "/youTube-TS/static/css/main.17fe2441.css.map",
+    "main.e66a472e.js.map": "/youTube-TS/static/js/main.e66a472e.js.map"
   },
   "entrypoints": [
     "static/css/main.17fe2441.css",
