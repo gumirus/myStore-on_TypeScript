@@ -1,1 +1,1 @@
-# TS-[https://gumirus.github.io/youTube-TS/]
+# [TS](https://gumirus.github.io/youTube-TS/)
