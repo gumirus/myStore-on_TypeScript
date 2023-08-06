@@ -1,1 +1,1 @@
-# [site on TypeScript](http://gumirus.github.io/youTube-TS/)
+# [site on TypeScript]( https://gumirus.github.io/youTube-TS/)
